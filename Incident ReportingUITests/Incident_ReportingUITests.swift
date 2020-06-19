@@ -72,7 +72,7 @@ class Incident_ReportingUITests: XCTestCase {
         XCTAssertNotNil(viewReportsButton)
         viewReportsButton.tap()
         sleep(2)
-        let backButton = app.navigationBars["Incident List"].buttons["Back"]
+        let backButton = app.navigationBars["Incident Reports"].buttons["Back"]
         backButton.tap()
     }
 }
