@@ -1,0 +1,6 @@
+framework module Pods_Incident_Reporting_Incident_ReportingUITests {
+  umbrella header "Pods-Incident Reporting-Incident ReportingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
